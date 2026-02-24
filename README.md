@@ -1,4 +1,4 @@
-# PR RANKER
+# PR Deduplicator
 
 An AI-powered dashboard for managing GitHub pull requests. It scores PRs against issues using LLMs, displays repo statistics, and lets you merge PRs — all from a modern React UI.
 
