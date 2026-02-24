@@ -1,0 +1,7 @@
+__pycache__
+*.pyc
+venv/
+pr_ranker.db
+.git
+.env
+.env.example    
